@@ -6,7 +6,7 @@ function App() {
       <h1>App 2</h1>
 
       <iframe
-        src="https://note-taking-app-brown-psi.vercel.app/"
+        src="https://note-taking-app-six-delta.vercel.app/"
         style={{
           width: "100vw",
           height: "100vh",
